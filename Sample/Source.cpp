@@ -1,1 +1,2 @@
-/*Hello, this is a GIT sample.*/
+/*Hello, this is a GIT sample.
+I wonder how it works exactly*/
